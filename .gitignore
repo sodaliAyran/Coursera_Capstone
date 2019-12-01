@@ -1,4 +1,9 @@
 .ipynb_checkpoints/
+__pycache__/
+
 Geospatial_Coordinates.csv
 toronto.csv
 config.py
+Week4/vegan_vegetarian_city_list.csv
+Week4/city_list.csv
+Week4/.~lock.vegan_vegetarian_city_list.xlsx#
