@@ -1,6 +1,5 @@
 .ipynb_checkpoints/
 __pycache__/
-
 Geospatial_Coordinates.csv
 toronto.csv
 config.py
